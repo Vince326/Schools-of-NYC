@@ -1,0 +1,721 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		05A46E98F78C07F607E62094 /* Pods_Schools_of_NYC.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F63590E7A87DA46DBDE3E00 /* Pods_Schools_of_NYC.framework */; };
+		1D63821944EEC8FE80ABE103 /* Pods_Schools_of_NYC_Schools_of_NYCUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 535B31966B31DC1862072286 /* Pods_Schools_of_NYC_Schools_of_NYCUITests.framework */; };
+		4C58FD27E26238916B9628A4 /* Pods_Schools_of_NYCTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A72F65D14B6D561C775FC0B /* Pods_Schools_of_NYCTests.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		956F15A42D4818C3000F683F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 956F15852D4818C1000F683F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 956F158C2D4818C1000F683F;
+			remoteInfo = "Schools of NYC";
+		};
+		956F15AE2D4818C3000F683F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 956F15852D4818C1000F683F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 956F158C2D4818C1000F683F;
+			remoteInfo = "Schools of NYC";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1C156AAEAB85C540BA8CF93F /* Pods-Schools of NYC-Schools of NYCUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Schools of NYC-Schools of NYCUITests.debug.xcconfig"; path = "Target Support Files/Pods-Schools of NYC-Schools of NYCUITests/Pods-Schools of NYC-Schools of NYCUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		3F63590E7A87DA46DBDE3E00 /* Pods_Schools_of_NYC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Schools_of_NYC.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		535B31966B31DC1862072286 /* Pods_Schools_of_NYC_Schools_of_NYCUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Schools_of_NYC_Schools_of_NYCUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		72C28A4B8FAC8D4EEA755137 /* Pods-Schools of NYC.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Schools of NYC.debug.xcconfig"; path = "Target Support Files/Pods-Schools of NYC/Pods-Schools of NYC.debug.xcconfig"; sourceTree = "<group>"; };
+		7A72F65D14B6D561C775FC0B /* Pods_Schools_of_NYCTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Schools_of_NYCTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		956F158D2D4818C1000F683F /* Schools of NYC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Schools of NYC.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		956F15A32D4818C3000F683F /* Schools of NYCTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Schools of NYCTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		956F15AD2D4818C3000F683F /* Schools of NYCUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Schools of NYCUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B9086615BD121BBB68DF0B2 /* Pods-Schools of NYC.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Schools of NYC.release.xcconfig"; path = "Target Support Files/Pods-Schools of NYC/Pods-Schools of NYC.release.xcconfig"; sourceTree = "<group>"; };
+		C483F972927BE0EC357D1A71 /* Pods-Schools of NYC-Schools of NYCUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Schools of NYC-Schools of NYCUITests.release.xcconfig"; path = "Target Support Files/Pods-Schools of NYC-Schools of NYCUITests/Pods-Schools of NYC-Schools of NYCUITests.release.xcconfig"; sourceTree = "<group>"; };
+		F5A84D7FA5F8F2D979F044CF /* Pods-Schools of NYCTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Schools of NYCTests.debug.xcconfig"; path = "Target Support Files/Pods-Schools of NYCTests/Pods-Schools of NYCTests.debug.xcconfig"; sourceTree = "<group>"; };
+		F60F241CF4FA6FDC0D0E00BB /* Pods-Schools of NYCTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Schools of NYCTests.release.xcconfig"; path = "Target Support Files/Pods-Schools of NYCTests/Pods-Schools of NYCTests.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		956F15B52D4818C3000F683F /* Exceptions for "Schools of NYC" folder in "Schools of NYC" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 956F158C2D4818C1000F683F /* Schools of NYC */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		956F158F2D4818C1000F683F /* Schools of NYC */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				956F15B52D4818C3000F683F /* Exceptions for "Schools of NYC" folder in "Schools of NYC" target */,
+			);
+			path = "Schools of NYC";
+			sourceTree = "<group>";
+		};
+		956F15A62D4818C3000F683F /* Schools of NYCTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Schools of NYCTests";
+			sourceTree = "<group>";
+		};
+		956F15B02D4818C3000F683F /* Schools of NYCUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Schools of NYCUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		956F158A2D4818C1000F683F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				05A46E98F78C07F607E62094 /* Pods_Schools_of_NYC.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		956F15A02D4818C3000F683F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4C58FD27E26238916B9628A4 /* Pods_Schools_of_NYCTests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		956F15AA2D4818C3000F683F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D63821944EEC8FE80ABE103 /* Pods_Schools_of_NYC_Schools_of_NYCUITests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		160D41A726B80AC9AA57DB00 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				72C28A4B8FAC8D4EEA755137 /* Pods-Schools of NYC.debug.xcconfig */,
+				9B9086615BD121BBB68DF0B2 /* Pods-Schools of NYC.release.xcconfig */,
+				1C156AAEAB85C540BA8CF93F /* Pods-Schools of NYC-Schools of NYCUITests.debug.xcconfig */,
+				C483F972927BE0EC357D1A71 /* Pods-Schools of NYC-Schools of NYCUITests.release.xcconfig */,
+				F5A84D7FA5F8F2D979F044CF /* Pods-Schools of NYCTests.debug.xcconfig */,
+				F60F241CF4FA6FDC0D0E00BB /* Pods-Schools of NYCTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		956F15842D4818C1000F683F = {
+			isa = PBXGroup;
+			children = (
+				956F158F2D4818C1000F683F /* Schools of NYC */,
+				956F15A62D4818C3000F683F /* Schools of NYCTests */,
+				956F15B02D4818C3000F683F /* Schools of NYCUITests */,
+				956F158E2D4818C1000F683F /* Products */,
+				160D41A726B80AC9AA57DB00 /* Pods */,
+				DAD1A4F367E0D30B95ECDC35 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		956F158E2D4818C1000F683F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				956F158D2D4818C1000F683F /* Schools of NYC.app */,
+				956F15A32D4818C3000F683F /* Schools of NYCTests.xctest */,
+				956F15AD2D4818C3000F683F /* Schools of NYCUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DAD1A4F367E0D30B95ECDC35 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3F63590E7A87DA46DBDE3E00 /* Pods_Schools_of_NYC.framework */,
+				535B31966B31DC1862072286 /* Pods_Schools_of_NYC_Schools_of_NYCUITests.framework */,
+				7A72F65D14B6D561C775FC0B /* Pods_Schools_of_NYCTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		956F158C2D4818C1000F683F /* Schools of NYC */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 956F15B62D4818C3000F683F /* Build configuration list for PBXNativeTarget "Schools of NYC" */;
+			buildPhases = (
+				5C90CB1FC1375ED193E95D74 /* [CP] Check Pods Manifest.lock */,
+				956F15892D4818C1000F683F /* Sources */,
+				956F158A2D4818C1000F683F /* Frameworks */,
+				956F158B2D4818C1000F683F /* Resources */,
+				DB170718F381CEEDD02206B4 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				956F158F2D4818C1000F683F /* Schools of NYC */,
+			);
+			name = "Schools of NYC";
+			productName = "Schools of NYC";
+			productReference = 956F158D2D4818C1000F683F /* Schools of NYC.app */;
+			productType = "com.apple.product-type.application";
+		};
+		956F15A22D4818C3000F683F /* Schools of NYCTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 956F15BB2D4818C3000F683F /* Build configuration list for PBXNativeTarget "Schools of NYCTests" */;
+			buildPhases = (
+				83FECF9BB88191F65B095D3C /* [CP] Check Pods Manifest.lock */,
+				956F159F2D4818C3000F683F /* Sources */,
+				956F15A02D4818C3000F683F /* Frameworks */,
+				956F15A12D4818C3000F683F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				956F15A52D4818C3000F683F /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				956F15A62D4818C3000F683F /* Schools of NYCTests */,
+			);
+			name = "Schools of NYCTests";
+			productName = "Schools of NYCTests";
+			productReference = 956F15A32D4818C3000F683F /* Schools of NYCTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		956F15AC2D4818C3000F683F /* Schools of NYCUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 956F15BE2D4818C3000F683F /* Build configuration list for PBXNativeTarget "Schools of NYCUITests" */;
+			buildPhases = (
+				EDAFE721BCA918D40BC31C2F /* [CP] Check Pods Manifest.lock */,
+				956F15A92D4818C3000F683F /* Sources */,
+				956F15AA2D4818C3000F683F /* Frameworks */,
+				956F15AB2D4818C3000F683F /* Resources */,
+				07D1E7D88C08EDD8D74A7162 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				956F15AF2D4818C3000F683F /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				956F15B02D4818C3000F683F /* Schools of NYCUITests */,
+			);
+			name = "Schools of NYCUITests";
+			productName = "Schools of NYCUITests";
+			productReference = 956F15AD2D4818C3000F683F /* Schools of NYCUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		956F15852D4818C1000F683F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					956F158C2D4818C1000F683F = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					956F15A22D4818C3000F683F = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 956F158C2D4818C1000F683F;
+					};
+					956F15AC2D4818C3000F683F = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 956F158C2D4818C1000F683F;
+					};
+				};
+			};
+			buildConfigurationList = 956F15882D4818C1000F683F /* Build configuration list for PBXProject "Schools of NYC" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 956F15842D4818C1000F683F;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 956F158E2D4818C1000F683F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				956F158C2D4818C1000F683F /* Schools of NYC */,
+				956F15A22D4818C3000F683F /* Schools of NYCTests */,
+				956F15AC2D4818C3000F683F /* Schools of NYCUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		956F158B2D4818C1000F683F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		956F15A12D4818C3000F683F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		956F15AB2D4818C3000F683F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		07D1E7D88C08EDD8D74A7162 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Schools of NYC-Schools of NYCUITests/Pods-Schools of NYC-Schools of NYCUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Schools of NYC-Schools of NYCUITests/Pods-Schools of NYC-Schools of NYCUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Schools of NYC-Schools of NYCUITests/Pods-Schools of NYC-Schools of NYCUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5C90CB1FC1375ED193E95D74 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Schools of NYC-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		83FECF9BB88191F65B095D3C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Schools of NYCTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DB170718F381CEEDD02206B4 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Schools of NYC/Pods-Schools of NYC-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Schools of NYC/Pods-Schools of NYC-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Schools of NYC/Pods-Schools of NYC-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EDAFE721BCA918D40BC31C2F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Schools of NYC-Schools of NYCUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		956F15892D4818C1000F683F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		956F159F2D4818C3000F683F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		956F15A92D4818C3000F683F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		956F15A52D4818C3000F683F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 956F158C2D4818C1000F683F /* Schools of NYC */;
+			targetProxy = 956F15A42D4818C3000F683F /* PBXContainerItemProxy */;
+		};
+		956F15AF2D4818C3000F683F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 956F158C2D4818C1000F683F /* Schools of NYC */;
+			targetProxy = 956F15AE2D4818C3000F683F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		956F15B72D4818C3000F683F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 72C28A4B8FAC8D4EEA755137 /* Pods-Schools of NYC.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Schools of NYC/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.VHunter.Schools-of-NYC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		956F15B82D4818C3000F683F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9B9086615BD121BBB68DF0B2 /* Pods-Schools of NYC.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Schools of NYC/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.VHunter.Schools-of-NYC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		956F15B92D4818C3000F683F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		956F15BA2D4818C3000F683F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		956F15BC2D4818C3000F683F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F5A84D7FA5F8F2D979F044CF /* Pods-Schools of NYCTests.debug.xcconfig */;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.VHunter.Schools-of-NYCTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Schools of NYC.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Schools of NYC";
+			};
+			name = Debug;
+		};
+		956F15BD2D4818C3000F683F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F60F241CF4FA6FDC0D0E00BB /* Pods-Schools of NYCTests.release.xcconfig */;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.VHunter.Schools-of-NYCTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Schools of NYC.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Schools of NYC";
+			};
+			name = Release;
+		};
+		956F15BF2D4818C3000F683F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1C156AAEAB85C540BA8CF93F /* Pods-Schools of NYC-Schools of NYCUITests.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.VHunter.Schools-of-NYCUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Schools of NYC";
+			};
+			name = Debug;
+		};
+		956F15C02D4818C3000F683F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C483F972927BE0EC357D1A71 /* Pods-Schools of NYC-Schools of NYCUITests.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.VHunter.Schools-of-NYCUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Schools of NYC";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		956F15882D4818C1000F683F /* Build configuration list for PBXProject "Schools of NYC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				956F15B92D4818C3000F683F /* Debug */,
+				956F15BA2D4818C3000F683F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		956F15B62D4818C3000F683F /* Build configuration list for PBXNativeTarget "Schools of NYC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				956F15B72D4818C3000F683F /* Debug */,
+				956F15B82D4818C3000F683F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		956F15BB2D4818C3000F683F /* Build configuration list for PBXNativeTarget "Schools of NYCTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				956F15BC2D4818C3000F683F /* Debug */,
+				956F15BD2D4818C3000F683F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		956F15BE2D4818C3000F683F /* Build configuration list for PBXNativeTarget "Schools of NYCUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				956F15BF2D4818C3000F683F /* Debug */,
+				956F15C02D4818C3000F683F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 956F15852D4818C1000F683F /* Project object */;
+}
